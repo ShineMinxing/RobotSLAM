@@ -1,6 +1,6 @@
 # Direct LiDAR Odometry: <br> Fast Localization with Dense Point Clouds
 
-##Copy from https://github.com/vectr-ucla/direct_lidar_odometry.git
+## Copy from https://github.com/vectr-ucla/direct_lidar_odometry.git
 
 #### [[IEEE RA-L](https://ieeexplore.ieee.org/document/9681177)] [[ArXiv](https://arxiv.org/abs/2110.00605)] [[Video](https://www.youtube.com/watch?v=APot6QP_wvg)] [[Code](https://github.com/vectr-ucla/direct_lidar_odometry)]
 
