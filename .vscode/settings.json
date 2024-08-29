@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/estimator_ws_240826/devel/lib/python3/dist-packages",
+        "/root/estimator_ws_240619/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/estimator_ws_240826/devel/lib/python3/dist-packages",
+        "/root/estimator_ws_240619/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
